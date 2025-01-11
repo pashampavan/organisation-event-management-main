@@ -1,7 +1,7 @@
 # Organisation-Event-Management
 
 ## Description
-This is MERN stack project to manage events,tasks and attendees in an organisation. Here we run user react.js web app.
+This is MERN stack project to manage events,tasks,attendees in an organisation and more. Here we run user react.js web app.
 ---
 
 ## Prerequisites
