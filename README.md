@@ -19,7 +19,7 @@ git clone https://github.com/pashampavan/organisation-event-management-main.git
 ```
 
 ```bash
-cd Task Management
+cd Event Manager Main
 ```
 
 ### Installs all required dependencies to run react.js frontend webapp
