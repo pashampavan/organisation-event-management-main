@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/pashampavan/organisation-event-management-main/static/css/main.75e673e4.css",
-    "main.js": "/pashampavan/organisation-event-management-main/static/js/main.d4670863.js",
+    "main.js": "/pashampavan/organisation-event-management-main/static/js/main.c3b62fce.js",
     "static/js/488.8c0c78d8.chunk.js": "/pashampavan/organisation-event-management-main/static/js/488.8c0c78d8.chunk.js",
     "index.html": "/pashampavan/organisation-event-management-main/index.html",
     "main.75e673e4.css.map": "/pashampavan/organisation-event-management-main/static/css/main.75e673e4.css.map",
-    "main.d4670863.js.map": "/pashampavan/organisation-event-management-main/static/js/main.d4670863.js.map",
+    "main.c3b62fce.js.map": "/pashampavan/organisation-event-management-main/static/js/main.c3b62fce.js.map",
     "488.8c0c78d8.chunk.js.map": "/pashampavan/organisation-event-management-main/static/js/488.8c0c78d8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.75e673e4.css",
-    "static/js/main.d4670863.js"
+    "static/js/main.c3b62fce.js"
   ]
 }
